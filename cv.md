@@ -15,5 +15,5 @@ I’ve always been interested in learning languages and design so I decided to t
 - RS School “JavaScript/Front-end” (in progress)
 ### Languages
 - English: Advanced
-- Russian: Native
+- Russian: Native 
 - French: Intermediate
